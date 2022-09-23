@@ -10,7 +10,7 @@ const Navbar = ({toggle, toggleForm}) => {
         <h1>V.1.0.0</h1>
       </div>
       <div className="sub-nav">
-        <h3>Toggle Todo</h3>
+        <h3>Toggle Form</h3>
         <Button text={toggleForm ? "close" : "open"} bgcolor={toggleForm ? "red" : "green" } color='white' toggle={toggle}/>
       </div>
     </nav>
