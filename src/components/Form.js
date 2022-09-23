@@ -25,7 +25,7 @@ const Form = ({addTodo}) => {
         <div>
             <input 
                 type="text"
-                placeholder='Enter todo title'
+                placeholder='Enter todo Title'
                 required
                 value={title}
                 onChange={(e)=>setTitle(e.target.value)}
