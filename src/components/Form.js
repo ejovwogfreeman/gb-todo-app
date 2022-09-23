@@ -16,7 +16,7 @@ const Form = ({addTodo}) => {
 
         setTitle('')
         setContent('')
-        setDay('')
+        setDay('Sunday')
     }
 
   return (
