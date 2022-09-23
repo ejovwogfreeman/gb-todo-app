@@ -25,7 +25,7 @@ const Form = ({addTodo}) => {
         <div>
             <input 
                 type="text"
-                placeholder='Enter todo Title'
+                placeholder='Enter Todo Title'
                 required
                 value={title}
                 onChange={(e)=>setTitle(e.target.value)}
@@ -34,7 +34,7 @@ const Form = ({addTodo}) => {
         <div>
             <textarea 
                 type="text"
-                placeholder='Enter todo Detail'
+                placeholder='Enter Todo Detail'
                 required
                 value={content}
                 onChange={(e)=>setContent(e.target.value)}
