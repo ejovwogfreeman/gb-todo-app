@@ -1,0 +1,27 @@
+.App {
+    padding: 0px 38%;
+}
+
+@media screen and (max-width: 1000px) {
+    .App {
+        padding: 0px 30%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .App {
+        padding: 0px 25%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .App {
+        padding: 0px 20%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .App {
+        padding: 0px 5%;
+    }
+}

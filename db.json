@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "Cook rice",
+      "day": "dec 7th 2022",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Code all day",
+      "day": "12th june 2022",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "attend a meeting in Dubai",
+      "day": "oct 11th 2022",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Fetch info from Hybrid Tech",
+      "day": "11th dec 2022",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Meeting at A1 tech",
+      "day": "11th dec 2022",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Design a React front end for Palimart.",
+      "day": "5th may 2022",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}

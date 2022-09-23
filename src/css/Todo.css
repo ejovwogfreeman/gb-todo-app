@@ -1,0 +1,27 @@
+.todo {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.todo div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon {
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon:hover {
+    color: red;
+    background-color: rgba(0,0,0,0.3);
+}
